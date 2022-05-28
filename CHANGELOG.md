@@ -7,6 +7,7 @@
 
 ### Fixed
 - remove context menu option "open attachment" for webxdc (#2763)
+- too wide clickable area on forwarded messages (#2627)
 
 ### Changed
 - click on webxdc icon starts it too now (#2775)
